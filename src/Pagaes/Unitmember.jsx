@@ -59,7 +59,7 @@ const Unitmember = () => {
 
 
             <div className="bg-red-600 w-full rounded-xl ">
-            <div className="card bg-base-100 w-96 shadow-xl flex lg:ml-[570px] ml-5 mt-10">
+            <div className="card bg-red-400 w-96 shadow-xl flex lg:ml-[570px] ml-5 mt-10">
                         <figure className="px-10 pt-10">
                             <img
                                 src="https://i.postimg.cc/KvdSxRGM/5cdd9b4a-bfc8-4113-ba3f-e330783975d0.jpg"
@@ -84,7 +84,7 @@ const Unitmember = () => {
                     </div>
 
                     <div className="lg:flex gap-40 ml-5 lg:ml-72 mt-5">
-                    <div className="card bg-base-100 w-96 shadow-xl">
+                    <div className="card bg-red-400 w-96 shadow-xl">
                         <figure className="px-10 pt-10">
                             <img
                                 src="https://i.postimg.cc/pLf2SDfT/8ee1e022-5ab6-4386-965b-939ffeaf0cc7.jpg"
@@ -107,7 +107,7 @@ const Unitmember = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="card bg-base-100 w-96 shadow-xl  mt-5">
+                    <div className="card bg-red-400 w-96 shadow-xl  mt-5">
                         <figure className="px-10 pt-10">
                             <img
                                 src="https://i.postimg.cc/5y84Mvhn/d9b5e534-3187-43a6-b560-121e85ce9e62.jpg"

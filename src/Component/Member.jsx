@@ -3,7 +3,8 @@
 const Member = () => {
     return (
         <div>
-            <div className="lg:flex gap-44 lg:ml-44 ml-32 lg:mt-16 ">
+             <h1 className="text-4xl text-red-600 text-center font-bold mt-20"> <div className="divider divider-error">Bogura Unit Member</div> </h1>
+            <div className="lg:flex gap-44 lg:ml-44 ml-32 lg:mt-16 mt-20 ">
                 <div>
                     <img className="w-40 mt-8" src="https://i.postimg.cc/QN7qcsys/volunteer-1.png" alt="" />
                     <h1 className="text-red-600 text-4xl font-bold ml-14 mt-5">50</h1>
