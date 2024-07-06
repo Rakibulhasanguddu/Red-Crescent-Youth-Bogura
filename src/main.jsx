@@ -10,6 +10,7 @@ import Root from './main/Root';
 import Home from './Pagaes/Home';
 import Unitmember from './Pagaes/Unitmember';
 import About from './Pagaes/About';
+import OurWorks from './Pagaes/OurWorks';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -26,6 +27,10 @@ const router = createBrowserRouter([
       {
         path: "/about",
         element:<About></About>,
+      },
+      {
+        path:'/work',
+        element:<OurWorks></OurWorks>
       }
     ],
   },

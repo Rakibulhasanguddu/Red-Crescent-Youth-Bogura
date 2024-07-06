@@ -138,7 +138,7 @@ const Unitmember = () => {
                     
                     
                     {/* 3 */}
-                    <div className="card bg-base-100 w-96 shadow-xl mt-5">
+                    <div className="card w-96 shadow-xl mt-5">
                         <figure className="px-10 pt-10">
                             <img
                                 src="https://i.postimg.cc/rFzjgjL1/ce7ec815-381c-437f-b4b8-f389ef8cc77f.jpg"
